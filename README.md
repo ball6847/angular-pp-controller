@@ -43,7 +43,7 @@ In your controller file, just create a resolver using a factory and write contro
 ```javascript
 
 angular
-  .module('app);
+  .module('app');
   .factory('MyResolver', [function() {
     return {
       collection: ['$http', function($http) {
