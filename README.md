@@ -5,7 +5,7 @@ But we can't do this without routing, if you use the inline `ng-controller`, the
 
 ## Usage
 
-1. Include javascript file in your project somewhere after the angularjs file.
+1 Include javascript file in your project somewhere after the angularjs file.
 
 ```html
 
@@ -15,7 +15,7 @@ But we can't do this without routing, if you use the inline `ng-controller`, the
 <script src="js/app.js"></script>
 ```
 
-2. Add `pp.controller` to your app's dependencies list.
+2 Add `pp.controller` to your app's dependencies list.
 
 
 ```javascript
